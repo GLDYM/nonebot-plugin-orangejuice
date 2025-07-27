@@ -92,7 +92,7 @@ _✨ [Sorabot](https://100oj.com/zh/%E5%B7%A5%E5%85%B7/SoraBot%E4%BD%BF%E7%94%A8
 
 </details>
 
-<detials open>
+<details open>
 <summary>橙汁数据查询</summary>
 
 | 命令                                   | 说明                                                                                    |
@@ -107,7 +107,7 @@ _✨ [Sorabot](https://100oj.com/zh/%E5%B7%A5%E5%85%B7/SoraBot%E4%BD%BF%E7%94%A8
 | #stat pin \<id\>                       | 切换个人 pin 样式。                                                                        |
 | #stats modify \<qq\> \<key\> \<value\> | 直接修改数据库中某个玩家的数据，用于给予 pin。仅 Bot 的所有者可用使用本命令。                   |
 
-</detials>
+</details>
 
 <details open>
 <summary>管理模块</summary>

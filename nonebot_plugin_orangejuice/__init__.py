@@ -15,11 +15,11 @@ __plugin_meta__ = PluginMetadata(
     \#zb <something> 占卜''',
     type="application",
     supported_adapters={"~onebot.v11"},
-    homepage="https://github.com/FDCraft/nonebot-plugin-orangejuice",
+    homepage="https://github.com/GLDYM/nonebot-plugin-orangejuice",
     config=Config,
     extra={
         'author': 'Polaris_Light',
-        'version': '1.1.0',
+        'version': '1.1.2',
         'priority': 10
     }
 )
