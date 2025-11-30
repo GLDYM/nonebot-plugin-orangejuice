@@ -20,6 +20,8 @@ _✨ [Sorabot](https://100oj.com/zh/%E5%B7%A5%E5%85%B7/SoraBot%E4%BD%BF%E7%94%A8
 
 </div>
 
+# 鉴于橙汁公开数据库已不再提供服务，本插件转为使用私有数据库，开源版本不再更新。
+
 ## 📖 介绍
 
 [Sorabot](https://100oj.com/zh/%E5%B7%A5%E5%85%B7/SoraBot%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)的 Nonebot 实现，提供 100% Orange Juice 的卡面查询、组卡器查询、数据统计、表情短码与相关的娱乐功能。
